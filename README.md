@@ -9,8 +9,6 @@ http://github.com/Automic-Community/nginx-Action-Pack
 Contents of Solution Package:
 
 						
-								*PCK.CUSTOM_NGINX_1.0.0.zip
-								
 								*Nginx_Action_Pack_Documentation.pdf
 								
 								*nginx_logo.png
